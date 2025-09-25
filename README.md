@@ -1,4 +1,4 @@
-# T-Shirt Sales Analysis Dashboard  
+# T-Shirt Sales Analysis 
 
 ## 📌 Project Overview  
 This project demonstrates an end-to-end **Business Intelligence pipeline** for analyzing T-shirt sales data.  
